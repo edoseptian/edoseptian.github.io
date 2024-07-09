@@ -285,3 +285,25 @@
   });
 
 })()
+
+fetch('manifest.json')
+  .then(response => response.json())
+  .then(data => {
+    console.log('Nama aplikasi:', data.name);
+    console.log('Deskripsi:', data.description);
+  })
+  .catch(error => {
+    console.error('Gagal mengambil manifest:', error);
+  });
+
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/assets/js/service-worker.js')
+            .then(registration => {
+                console.log('Service Worker registered with scope:', registration.scope);
+            })
+            .catch(error => {
+                console.error('Service Worker registration failed:', error);
+            });
+    });
+}
