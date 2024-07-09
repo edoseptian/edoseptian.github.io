@@ -49,14 +49,14 @@
 
     "screenshots": [
         {
-            "src": "assets/img/cta-bg.JPG",
+            "src": "assets/img/cta-bg.jpg",
             "sizes": "1920x948",
             "type": "image/jpg",
             "form_factor": "wide",
             "label": "Background"
         },
         {
-            "src": "assets/img/cta-bg.JPG",
+            "src": "assets/img/cta-bg.jpg",
             "sizes": "1920x948",
             "type": "image/jpg",
             "form_factor": "narrow",
