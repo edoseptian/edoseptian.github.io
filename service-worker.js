@@ -3,7 +3,8 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/assets/css/styles.css',
-  '/app.js',
+  '/manifest.json',
+  '/assets/js/main.js',
   
   '/assets/img/logo/kolektificon48.png',
   '/assets/img/logo/kolektificon72.png',
@@ -62,10 +63,6 @@ const urlsToCache = [
   '/assets/img/kolektificon.PNG',
   '/assets/img/testimonials-bg.jpg',
 
-  '/manifest.json',
-  
-  '/assets/js/main.js',
-  '/assets/js/service-worker.js',
   '/assets/vendor/aos/aos.css',
   '/assets/vendor/aos/aos.js',
   '/assets/vendor/bootstrap/css/bootstrap-grid.css',
