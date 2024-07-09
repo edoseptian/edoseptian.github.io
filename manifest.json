@@ -10,31 +10,31 @@
     "orientation": "any",
     "icons": [
         {
-            "src":"assets/img/log/kolektificon48.png",
+            "src":"assets/img/logo/kolektificon48.png",
             "sizes": "48x48",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "assets/img/log/kolektificon72.png",
+            "src": "assets/img/logo/kolektificon72.png",
             "sizes": "72x72",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "assets/img/log/kolektificon96.png",
+            "src": "assets/img/logo/kolektificon96.png",
             "sizes": "96x96",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "assets/img/log/kolektificon128.png",
+            "src": "assets/img/logo/kolektificon128.png",
             "sizes": "128x128",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "assets/img/log/kolektificon196.png",
+            "src": "assets/img/logo/kolektificon196.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
