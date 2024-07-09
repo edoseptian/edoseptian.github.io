@@ -17,19 +17,19 @@
         },
         {
             "src": "assets/img/logo/kolektificon72.png",
-            "sizes": "72x72",
+            "sizes": "71x72",
             "type": "image/png",
             "purpose": "any"
         },
         {
             "src": "assets/img/logo/kolektificon96.png",
-            "sizes": "96x96",
+            "sizes": "95x96",
             "type": "image/png",
             "purpose": "any"
         },
         {
             "src": "assets/img/logo/kolektificon128.png",
-            "sizes": "128x128",
+            "sizes": "127x128",
             "type": "image/png",
             "purpose": "any"
         },
