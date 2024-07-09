@@ -14,37 +14,8 @@
             "sizes": "48x48",
             "type": "image/png",
             "purpose": "any"
-        },
-        {
-            "src": "assets/img/logo/kolektificon72.png",
-            "sizes": "72x72",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "assets/img/logo/kolektificon96.png",
-            "sizes": "95x96",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "assets/img/logo/kolektificon128.png",
-            "sizes": "127x128",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "assets/img/logo/kolektificon144.png",
-            "sizes": "143x144",
-            "type": "image/png",
-            "purpose": "any"
-        },
-        {
-            "src": "assets/img/logo/kolektificon192.png",
-            "sizes": "190x192",
-            "type": "image/png",
-            "purpose": "any"
         }
+        
     ],
 
     "screenshots": [
