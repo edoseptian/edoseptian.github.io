@@ -49,15 +49,15 @@
 
     "screenshots": [
         {
-            "src": "https://raw.githubusercontent.com/Muhammadakbaar/Some-Picture/main/654244.jpg",
-            "sizes": "1920x1080",
+            "src": "assets/img/cta-bg.JPG",
+            "sizes": "1920x948",
             "type": "image/jpg",
             "form_factor": "wide",
             "label": "Background"
         },
         {
-            "src": "https://raw.githubusercontent.com/Muhammadakbaar/Some-Picture/main/654244.jpg",
-            "sizes": "1920x1080",
+            "src": "assets/img/cta-bg.JPG",
+            "sizes": "1920x948",
             "type": "image/jpg",
             "form_factor": "narrow",
             "label": "Background"
