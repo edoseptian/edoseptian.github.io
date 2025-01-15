@@ -1257,6 +1257,21 @@ section {
 .sewa  button[type=submit]:hover {
   background: #326b2a ;
 }
+
+.button {
+  background: #326b2a;
+  border: 0;
+  padding: 10px 24px;
+  color: #ffffff;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+.button:hover {
+  background: #60c253 ;
+  color: #ffffff;
+}
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
