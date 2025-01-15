@@ -1217,6 +1217,47 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Sewa Ruangan
+--------------------------------------------------------------*/
+
+.sewa .content h3 {
+  font-weight: 700;
+  font-size: 28px;
+  font-family: "Poppins", sans-serif;
+}
+.sewa .content ul {
+  list-style: none;
+  padding: 0;
+}
+.sewa .content ul li {
+  padding: 0 0 8px 26px;
+  position: relative;
+}
+.sewa .content ul i {
+  position: absolute;
+  font-size: 20px;
+  left: 0;
+  top: -3px;
+  color: #326b2a;
+}
+.sewa .content p:last-child {
+  margin-bottom: 0;
+}
+
+/*-------------------------------------------------*/
+
+.sewa  button[type=submit] {
+  background: #326b2a;
+  border: 0;
+  padding: 10px 24px;
+  color: #ffffff;
+  transition: 0.4s;
+  border-radius: 4px;
+}
+.sewa  button[type=submit]:hover {
+  background: #326b2a ;
+}
+/*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
